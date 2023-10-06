@@ -35,10 +35,10 @@ insert into employed values(2,'Suju','SALES',500000)
 
 ```
 ### Create employee table
-![WhatsApp Image 2023-09-26 at 22 22 49](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/ab8e1001-ad81-4cee-b147-9e6ccbffe6b7)
+![Screenshot 2023-10-06 161851](https://github.com/DEVADARSHAN2/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/119432150/de7d8326-7017-44f2-bea8-421c4b85b265)
 
 ### Create salary_log table
-![WhatsApp Image 2023-09-26 at 22 23 14](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/86466cf5-53f7-4063-9ccc-e364e7072d5e)
+![Screenshot 2023-10-06 161903](https://github.com/DEVADARSHAN2/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/119432150/121c6f37-808d-495e-a219-74ede0299f5a)
 
 ### PLSQL Trigger code
 ```
@@ -69,8 +69,8 @@ SELECT * FROM sal_log;
 ```
 
 ### Output:
-![WhatsApp Image 2023-09-26 at 22 29 52](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/98d6405f-b231-485b-b7c5-38e605977906)
-![WhatsApp Image 2023-09-26 at 22 29 21](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/c1caabb7-a19c-44b3-9343-e135eafc4d07)
+![Screenshot 2023-10-06 161911](https://github.com/DEVADARSHAN2/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/119432150/5dcb3a74-e455-4418-bc6c-9e006a3cca4d)
+
 
 ### Result:
  The program has been implemented successfully
